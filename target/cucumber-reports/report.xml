@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="0.299" tests="1" skipped="0" failures="1" errors="0">
-<testcase classname="This feature tests Trello API" name="Add a new list to the test board after changing title" time="0.039">
-<failure/>
+<testsuite name="Cucumber" time="4.926" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="This feature tests Trello API" name="Add a new list to the test board after changing title" time="4.785">
 <system-out><![CDATA[
-Given The board exists and contains the correct information.................undefined
-When User changes the board title to "New title"............................skipped
-And User checks that the board name was updated to "New title"..............skipped
-Then User adds a list with title "Example list" to the board................skipped
+Given The board exists and contains the correct information.................passed
+When User changes the board title to "New title"............................passed
+And User checks that the board name was updated to "New title"..............passed
+Then User adds a list with title "Example list" to the board................passed
 ]]></system-out>
 </testcase>
 </testsuite>
