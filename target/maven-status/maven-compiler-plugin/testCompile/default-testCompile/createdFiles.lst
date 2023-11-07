@@ -1,0 +1,8 @@
+apiCourse\constants\ProjectsConstants.class
+apiCourse\stepdefinitions\TrelloSteps.class
+apiCourse\domain\List.class
+apiCourse\helpers\TestCaseContext.class
+apiCourse\clients\TrelloClient.class
+apiCourse\stepdefinitions\Hooks.class
+apiCourse\domain\Board.class
+apiCourse\testRunner\TestRunner.class
